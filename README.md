@@ -5,42 +5,43 @@ This dashboard shows the sales and order performance of Vrinda Store for 2022. I
 ## Dataset Link
 - <a href="https://github.com/snehachavhan2004/Vrinda-Store-Annual-Report-Dashboard/blob/main/Vrinda%20Store%20Dataset.xlsx">Dataset</a>
 
-- Dashboard Interaction <a href=""> View Dashboard</a>
-
 ## Questions (KPIs)
-Compare Sales and Orders using a single chart.
+✅Compare Sales and Orders using a single chart.
 → What does the Orders Vs Sales chart indicate about the business trend?
 
-Which month had the highest sales and orders?
+✅Which month had the highest sales and orders?
 
-Who purchased more – Men or Women?
+✅Who purchased more – Men or Women?
 
-What are the different order statuses recorded in 2022?
+✅What are the different order statuses recorded in 2022?
 
-List the top 5 states contributing the most to the sales.
+✅List the top 5 states contributing the most to the sales.
 
-What is the relationship between age and gender based on the number of orders?
+✅What is the relationship between age and gender based on the number of orders?
 
-Which sales channel is contributing the maximum to overall sales?
+✅Which sales channel is contributing the maximum to overall sales?
 
-Which category has the highest sales?
+✅Which category has the highest sales?
 
-What is the percentage of total orders delivered?
+✅What is the percentage of total orders delivered?
 
-How do Amazon and Flipkart compare in terms of sales contribution?
+✅How do Amazon and Flipkart compare in terms of sales contribution?
+
+## Dashboard Interaction
+- <a href="https://github.com/snehachavhan2004/Vrinda-Store-Annual-Report-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx"> View Dashboard</a>
 
 ## Process of Making Vrinda Store Dashboard
-Data Collection
+✅Data Collection
 
 Collected sales data for Vrinda Store for 2022, including order details, customer age, gender, state, category, and sales channels.
 
-Data Cleaning
+✅Data Cleaning
 
 Removed duplicates and handled missing values.
 
 Verified data types for correct analysis (dates, numerical fields).
 
-Data Analysis
+✅Data Analysis
 
 Used Excel Pivot Tables and Charts to analyze:
 
@@ -56,7 +57,7 @@ State-wise sales performance
 
 Channel-wise contribution to sales
 
-Dashboard Creation
+✅Dashboard Creation
 
 Designed an interactive Excel dashboard using:
 
@@ -66,7 +67,7 @@ Slicers for Category, Channel, and Month filters
 
 Data labels and legends for clear insights
 
-Insights & KPIs
+✅Insights & KPIs
 
 Highlighted key metrics such as:
 
@@ -80,18 +81,19 @@ Maximum contributing sales channel
 
 Customer segmentation by age and gender
 
-Finalization
+✅Finalization
 
 Formatted the dashboard with a clean layout, uniform color scheme, and titles for clarity.
 
-Tools Used
+## Tools Used
 Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 
 Basic Data Cleaning Techniques
 
 Dashboard
 
-Project Insights
+## Project Insights
+
 ✅ 1. Monthly Trends
 
 February had the highest sales (~1.9M INR) and maximum orders (~2800).
@@ -116,7 +118,7 @@ Top contributing states: Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil
 
 Amazon contributed the most (35%), followed closely by Flipkart (32%).
 
-Final Conclusion
+## Final Conclusion
 The Vrinda Store Data Analysis Dashboard provides a clear understanding of sales performance, customer behavior, and operational efficiency in 2022. The insights help in:
 
 Identifying peak sales periods for future promotions.
