@@ -81,6 +81,9 @@ Maximum contributing sales channel
 
 Customer segmentation by age and gender
 
+## Dashboard
+
+
 ✅Finalization
 
 Formatted the dashboard with a clean layout, uniform color scheme, and titles for clarity.
