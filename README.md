@@ -2,6 +2,11 @@
 ## Objectives
 This dashboard shows the sales and order performance of Vrinda Store for 2022. It helps to understand monthly trends, customer demographics, top states, sales channels, and order status to make better business decisions.
 
+## Dataset Link
+- <a href="https://github.com/snehachavhan2004/Vrinda-Store-Annual-Report-Dashboard/blob/main/Vrinda%20Store%20Dataset.xlsx">Dataset</a>
+
+- Dashboard Interaction <a href=""> View Dashboard</a>
+
 ## Questions (KPIs)
 Compare Sales and Orders using a single chart.
 → What does the Orders Vs Sales chart indicate about the business trend?
@@ -24,10 +29,7 @@ What is the percentage of total orders delivered?
 
 How do Amazon and Flipkart compare in terms of sales contribution?
 
-## Dataset Link
-- <a href="https://github.com/snehachavhan2004/Vrinda-Store-Annual-Report-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
-
-Process of Making Vrinda Store Dashboard
+## Process of Making Vrinda Store Dashboard
 Data Collection
 
 Collected sales data for Vrinda Store for 2022, including order details, customer age, gender, state, category, and sales channels.
