@@ -1,7 +1,8 @@
-# Vrinda-Store-Annual-Report-Dashboard
+# Vrinda-Store-Annual-Report-Dashboard(Interactive Dashboard with MsExcel)
+## Objectives
 This dashboard shows the sales and order performance of Vrinda Store for 2022. It helps to understand monthly trends, customer demographics, top states, sales channels, and order status to make better business decisions.
 
-Questions (KPIs)
+## Questions (KPIs)
 Compare Sales and Orders using a single chart.
 → What does the Orders Vs Sales chart indicate about the business trend?
 
