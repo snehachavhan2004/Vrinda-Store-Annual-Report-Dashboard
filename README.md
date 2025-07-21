@@ -5,24 +5,18 @@ This dashboard shows the sales and order performance of Vrinda Store for 2022. I
 ## Questions (KPIs)
 Compare Sales and Orders using a single chart.
 → What does the Orders Vs Sales chart indicate about the business trend?
-
 Which month had the highest sales and orders?
-
 Who purchased more – Men or Women?
-
 What are the different order statuses recorded in 2022?
-
 List the top 5 states contributing the most to the sales.
-
 What is the relationship between age and gender based on the number of orders?
-
 Which sales channel is contributing the maximum to overall sales?
-
 Which category has the highest sales?
-
 What is the percentage of total orders delivered?
-
 How do Amazon and Flipkart compare in terms of sales contribution?
+
+## Dataset Link
+
 
 Process of Making Vrinda Store Dashboard
 Data Collection
